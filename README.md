@@ -1,5 +1,5 @@
 # Human-AI-Interaction
-Assignments and code for Human-AI Interaction Fall 2019
+Assignments and code for Human-AI Interaction Fall 2019<br>
 In all transparency: My favourite class at grad school!
 
 ---
