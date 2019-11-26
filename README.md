@@ -14,4 +14,4 @@ The dataset `full_home_loans.csv` is about home loan applications in Washington 
 ## HW4: Twitter Satire Detection Bot 
 
 
-## HW5: GAN: Generating Cute and Wierd Doggies
+## HW5: GAN: Generating Cute and Weird Doggies
