@@ -17,5 +17,4 @@ A “chatbot” (really a dialog system) to detect satire, which responds with a
 
 
 ## HW5: GAN: Generating Cute and Weird Doggies 🐩
-Stay tuned, WIP!<br>
-Since I am running a GAN, it is on my system locally and will be uploading it soon! This file contains dogs with different truncation, noise_seed and those which have been interpolated, resulting in mixes that are cute, and some that would make you thrown out if it were a chemistry lab.
+This file contains dogs generated using a GAN that have different truncation, progressively increasing noise_seed and those which have been interpolated, resulting in mixes that are cute, and some that would make you thrown out if it were a chemistry lab.
